@@ -16,7 +16,7 @@ curl -O https://raw.githubusercontent.com/0x-miro/CustomBashScripts/main/ZoneTra
 Give it excutable permission :
 
 ```
- sudo chmod ./ZoneTransefereDump.sh
+ sudo chmod +x ./ZoneTransefereDump.sh
 ```
 
 Usage : 
