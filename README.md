@@ -2,7 +2,7 @@
 
 ## 1) ZoneTransefereDump.sh
 
-this script is created to automate the query of ns records of a specific target then trying to dump the zone transefere files from the each server.
+This script queries the NS records of the specified target then tryies to dump the zone transefere files from each server.
 
 ### Requirments : "host" utality which is in most OSs by default.
 
