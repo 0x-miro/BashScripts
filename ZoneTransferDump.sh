@@ -2,7 +2,7 @@
 
 if [ -z "$1" ];then
 echo
-echo "$0 : Brute force the name servers for a target then dumps its zone transfere files. "
+echo "$0 : Brute force the name servers for a target then dumps its zone transfer files. "
 echo
 echo "[*] Usage: $0 <domain.com> "
 echo
