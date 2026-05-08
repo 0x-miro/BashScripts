@@ -1,8 +1,6 @@
-# 💫 All files in this repo is created and written in Bash to automate some tasks or do specific things.
+# 💫 Below is the description of each :
 
-## Below is the description of each :
-
-1) ZoneTransefereDump.sh
+## 1) ZoneTransefereDump.sh
 
 this script is created to automate the query of ns records of a specific target then trying to dump the zone transefere files from the each server.
 
