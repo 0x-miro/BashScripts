@@ -22,7 +22,7 @@ Give it excutable permission :
 Usage : 
 
 ```
-./ZoneTransfereDump.sh <Domain name>
+./ZoneTransferDump.sh <Domain name>
 ```
 
 THX.. <3
