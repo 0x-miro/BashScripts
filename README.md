@@ -10,7 +10,7 @@ Instalation :
 Downlad the script :
 
 ```
-curl -O https://raw.githubusercontent.com/0x-miro/CustomBashScripts/main/ZoneTransferDump.sh
+curl -O https://raw.githubusercontent.com/0x-miro/BashScripts/main/ZoneTransferDump.sh
 ```
 
 Give it excutable permission :
