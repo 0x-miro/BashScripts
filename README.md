@@ -7,7 +7,7 @@ This script queries the NS records of the specified target then tryies to dump t
 ### Requirments : "host" utality which is in most OSs by default.
 
 Installation : 
-Downlad the script :
+Download the script :
 
 ```
 curl -O https://raw.githubusercontent.com/0x-miro/BashScripts/main/ZoneTransferDump.sh
