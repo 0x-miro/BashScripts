@@ -6,7 +6,7 @@ This script queries the NS records of the specified target then tryies to dump t
 
 ### Requirments : "host" utality which is in most OSs by default.
 
-Instalation : 
+Installation : 
 Downlad the script :
 
 ```
